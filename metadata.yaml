@@ -1,0 +1,52 @@
+_repo: Famous-funny-fellows-b-Brief-biographical-sketches-of-American-humorists_74088
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clemens, William Montgomery
+    aliases:
+    - Blake, Rodney
+    - Clemens, W. M. (William Montgomery)
+    - Clemens, Will M.
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '57343'
+    url: http://www.gutenberg.org/2009/agents/57343
+description: ''
+gutenberg_issued: '2024-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74088'
+  lccn: '27007629'
+language: en
+pgterms:marc904: https://archive.org/details/famousfunnyfello00clemiala/mode/2up
+pgterms:marc905: 20240222084359clemens
+pgterms:marc906: '1882'
+pgterms:marc907: US
+production_note: Alan, Susan E. and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aCleveland :$bWilliam W. Williams, $c1882.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorists, American -- Biography'
+- !lcsh 'American wit and humor -- History and criticism'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Introduction -- Samuel Langhorne Clemens ("Mark Twain") -- Charles
+  Farrar Browne ("Artemus Ward") -- Charles Heber Clark ("Max Adeler") -- Charles
+  B. Lewis ("M. Quad") -- Henry W. Shaw ("Josh Billings") -- Jay Charlton Goldsmith
+  ("The P.I. man") -- William Tappan Thompson ("Major Jones") -- Melville D. Landon
+  ("Eli Perkins") -- Charles Fulton Adams ("Yawcob Strauss") -- Seba Smith ("Major
+  Jack Downing") -- Will W. Clark ("Gillhooley") -- Irwin Russell -- John H. Williams
+  ("B. Dadd") -- James M. Bailey ("Danbury news man") -- Charles H. Smith ("Bill Arp")
+  -- A. Miner Griswold ("Fat contributor") -- Bill Nye -- Joseph C. Neal ("Charcoal
+  sketcher") -- George H. Derby ("John Phoenix") -- George W. Peck -- Alexander Edwin
+  Sweet -- Samuel W. Small ("Old Si") -- Charles Hoyt -- Henry Clay Lukens ("Erratic
+  Enrique") -- William A. Wilkins ("Hiram Green, Esq.") -- Charles H. Harris ("Carl
+  Pretzel") -- Joel Chandler Harris ("Uncle Remus") -- David Ross Locke ("Petroleum
+  V. Nasby") -- Robert Jones Burdette ("The Hawkeye man") -- Joe C. Aby ("Hoffenstein")
+  -- Edward E. Edwards -- Eugene Field -- Stanley Huntley ("Spoopendyke") -- Some
+  other funny fellows.
+title: 'Famous funny fellows : $b Brief biographical sketches of American humorists'
+url: http://www.gutenberg.org/ebooks/74088

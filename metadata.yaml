@@ -1,5 +1,8 @@
 _repo: Famous-funny-fellows-b-Brief-biographical-sketches-of-American-humorists_74088
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74088-h/images/cover.jpg
 creator:
   author:
     agent_name: Clemens, William Montgomery
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '57343'
     url: http://www.gutenberg.org/2009/agents/57343
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74088#Famous-funny-fellows-b-Brief-biographical-sketches-of-American-humorists
 gutenberg_issued: '2024-07-21'
 gutenberg_type: Text
 identifiers:
